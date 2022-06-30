@@ -1,10 +1,10 @@
-## <Group name>
+# [ Group name ]
 
-# Project Overview
+## Project Overview
 
 
 ## User Story 
 
-##Tools Used
+## Tools Used
 
 ## Problems encountred

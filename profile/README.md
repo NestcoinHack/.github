@@ -1,7 +1,8 @@
-# [ Group name ]
+# Team Name : Team Realty
+# Project Name : Realty
 
 ## Project Overview
-  Realty is a proof of concept solution for crypto-based real estate purchase/payments with stablecoins. It builds on the idea of having another option for asset listing, investment, saving and payments in the real-estate ecosystem.
+  [Realty](https://realty-app.netlify.app) is a proof of concept solution for crypto-based real estate purchase/payments with stablecoins. It builds on the idea of having another option for asset listing, investment, saving and payments in the real-estate ecosystem.
 
 ## User Story 
 - Users can submit their assset for public lusting

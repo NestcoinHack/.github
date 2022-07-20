@@ -1,7 +1,7 @@
 # [ Group name ]
 
 ## Project Overview
-  Realty is a proof of concept solution for crypto-based real estate purchase. It builds on the idea of having another option for asset listing, investment and payments in the real-estate ecosystem.
+  Realty is a proof of concept solution for crypto-based real estate purchase/payments with stablecoins. It builds on the idea of having another option for asset listing, investment, saving and payments in the real-estate ecosystem.
 
 ## User Story 
 - Users can submit their assset for public lusting
@@ -18,5 +18,8 @@
 - Polygon (mumbai) chain
 
 
-## Problems encountred
+## Problems encountered
 - Verification of property authenticity.
+
+## Current workaround to encountered problem.
+- Collect a listing fee from users while listing to reduce the incentive for fraud and also give users the option to report a suspicious listed asset.

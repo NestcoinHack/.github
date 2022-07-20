@@ -6,7 +6,7 @@
 
 ## Project track 
  - Creator Track 
-    - Stablecoins can be used for asset payments and listing, current support is only our test token — TUSDT, which you can request for from any team member.
+    - Stablecoins can be used for asset payments and listing, current support is only our test coin — [TUSDT](https://mumbai.polygonscan.com/address/0x4A80319043e4f56562212C10Ad86cDe28083cB10) which you can request for from any team member. Further development of the project for mainstream usage will involve mainnet stablecoins like USDT, DAI etc.
 
     - NFTs are used for verifying listed assets authenticity on Realty and also as proof of ownership of an asset within Realty.
 

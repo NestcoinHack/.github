@@ -26,7 +26,7 @@
 - Chakra UI
 
 ## Project Video Demo
-- [Video Demo Link](https://drive.google.com/file/d/1M5wgW4GBQw_r78R6yfDGI8ru3JWP3WUN/view?usp=sharing)
+- [Project Video Demo Link](https://drive.google.com/file/d/1M5wgW4GBQw_r78R6yfDGI8ru3JWP3WUN/view?usp=sharing)
 
 
 ## Problems encountered
